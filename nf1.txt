@@ -1,5 +1,5 @@
 Heya!Its my first new file!!
 new  line added
 new  text added
-to test for conflict from master
+to test for conflict from master and branch3
 
