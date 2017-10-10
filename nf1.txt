@@ -1,4 +1,5 @@
 Heya!Its my first new file!!
 new  line added
 new  text added
+to test for conflict from master
 
